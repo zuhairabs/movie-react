@@ -1,7 +1,5 @@
 # Movie Library w/ ReactJS
 
-## [Check it live here](https://movies.fidalgo.dev/)
-
 ![Thumbnail](thumbnail.png)
 
 A Movie Library made with ReactJS using The Movie Database API
@@ -50,4 +48,4 @@ Please feel free to send pull request if you want to contribute!
 
 ## Authors
 
-- **Fidalgo** - _Development_ - [Fidalgo](https://github.com/fidalgodev)
+- **Zuhair** - _Development_ - [Zuhair Abbas](https://github.com/zuhairabs)
